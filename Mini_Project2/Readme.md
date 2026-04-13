@@ -1,4 +1,4 @@
-# Hotel Booking Data Cleaning Project
+# Hotel Booking Data Cleaning 
 
 ### Project Overview
 호텔 예약 데이터셋을 활용하여 데이터 분석의 전처리 과정인 **Data Cleaning**을 수행한 프로젝트입니다. 결측치 처리, 비논리적 데이터 제거, 중복 데이터 정제 등을 통해 데이터의 신뢰도를 높이는 데 집중했습니다.
